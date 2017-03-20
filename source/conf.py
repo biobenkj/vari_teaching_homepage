@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'teaching_homepage'
+project = u'VARI BBC workshops'
 copyright = u'2017, Benjamin K Johnson'
 author = u'Benjamin K Johnson'
 
