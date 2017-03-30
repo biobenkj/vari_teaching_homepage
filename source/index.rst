@@ -56,7 +56,9 @@ Computer requirements
 ~~~~~~~~~~~~~~~~~~~~~
 
 **Already changing things up**
+
 **The following is required but will probably be better suited for the next workshop: Intro to the HPC**
+
 Attendees will need to bring a computer with a Web browser, an
 Internet connection, and an ssh client; Windows users should install
 `MobaXterm <http://mobaxterm.mobatek.net/>`__ before the workshop.
