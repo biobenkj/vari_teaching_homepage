@@ -62,6 +62,7 @@ Internet connection, and an ssh client; Windows users should install
 `MobaXterm <http://mobaxterm.mobatek.net/>`__ before the workshop.
 
 **Windows users need to install Git bash**
+
 *Windows:*
 
 1. Download the Git for Windows installer `here <https://git-for-windows.github.io/>`__.
